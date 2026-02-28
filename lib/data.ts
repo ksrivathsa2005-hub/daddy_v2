@@ -175,12 +175,12 @@ export const teamRoles: TeamRole[] = [
   {
     role: "Frontend Developers",
     count: 2,
-    stipend: "₹8K–12K / month",
+    stipend: "₹18K–25K / month",
   },
   {
     role: "Backend Developers",
     count: 2,
-    stipend: "₹8K–12K / month",
+    stipend: "₹18K–25K / month",
   },
 ];
 
