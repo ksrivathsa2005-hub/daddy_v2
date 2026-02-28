@@ -59,7 +59,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="mt-10 sm:mt-16 pt-6 sm:pt-8 border-t border-white/[0.06] flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4">
           <p className="text-text-tertiary text-xs text-center sm:text-left">
-            © 2026 Srivathsa's Pitch Ltd. All rights reserved.
+            © 2026 Srivathsa&apos;s Pitch Ltd. All rights reserved.
           </p>
           <p className="text-text-tertiary text-xs text-center sm:text-left">
             Built with precision. Designed for scale.

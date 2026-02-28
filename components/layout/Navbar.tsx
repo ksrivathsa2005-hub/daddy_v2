@@ -61,7 +61,7 @@ export function Navbar() {
                 SK
               </div>
               <span className="font-display font-bold text-white text-lg hidden sm:block">
-                Srivathsa's Pitch
+                Srivathsa&apos;s Pitch
               </span>
             </button>
 
