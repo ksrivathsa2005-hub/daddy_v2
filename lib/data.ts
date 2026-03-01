@@ -19,12 +19,7 @@ export const navLinks: NavLink[] = [
   { label: "Capital", href: "#capital" },
 ];
 
-export const heroMetrics: Metric[] = [
-  { value: 6, suffix: "", label: "Brands" },
-  { value: 13, suffix: "", label: "Kitchens Year 1" },
-  { value: 34, suffix: "+", label: "Kitchens Year 2" },
-  { value: 3, suffix: "", label: "Months to Launch" },
-];
+export const heroMetrics: Metric[] = [];
 
 export const brands: Brand[] = [
   {
@@ -196,24 +191,9 @@ export const pillars: Pillar[] = [
     icon: "🌍",
   },
   {
-    title: "Revenue-Tested",
-    description: "Not a prototype. Shipped products with real revenue.",
-    icon: "💰",
-  },
-  {
-    title: "Govt Credibility",
-    description: "Government of Kerala collaboration on record.",
-    icon: "🏛️",
-  },
-  {
     title: "Structured Execution",
     description: "90-day sprints. Milestones. Measurable outcomes.",
     icon: "📐",
-  },
-  {
-    title: "Investor Lens",
-    description: "VC analytics, reporting, and metrics — native to the platform.",
-    icon: "📊",
   },
 ];
 

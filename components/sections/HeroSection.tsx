@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { Container } from "@/components/layout/Container";
 import { GradientGlow } from "@/components/animations/GradientGlow";
 import { CountUp } from "@/components/animations/CountUp";
+import { Countdown } from "@/components/animations/Countdown";
 import { heroMetrics } from "@/lib/data";
 
 export function HeroSection() {
@@ -60,6 +61,9 @@ export function HeroSection() {
             Designed for 1 kitchen today.{" "}
             <span className="text-white">50 tomorrow.</span>
           </motion.p>
+
+          {/* Countdown Timer */}
+          <Countdown />
 
           {/* Metrics */}
           <motion.div
